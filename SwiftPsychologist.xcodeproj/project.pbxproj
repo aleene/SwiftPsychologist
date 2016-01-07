@@ -51,6 +51,7 @@
 		512C1F071C3EA539001E2AA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		512C1F141C3EA76A001E2AA6 /* HappinessViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HappinessViewController.swift; sourceTree = "<group>"; };
 		512C1F161C3EA9C5001E2AA6 /* FaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
+		512C1F181C3EB6E3001E2AA6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +132,7 @@
 		512C1F131C3EA551001E2AA6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				512C1F181C3EB6E3001E2AA6 /* README.md */,
 				512C1EE51C3EA539001E2AA6 /* AppDelegate.swift */,
 				512C1EEC1C3EA539001E2AA6 /* Assets.xcassets */,
 				512C1EEE1C3EA539001E2AA6 /* LaunchScreen.storyboard */,
